@@ -1,0 +1,16 @@
+TI2344919,Pedro Perez,10,Quinto,Reprobado
+RC6351978,Maria Martinez,5,Jardin,Aprobado
+RC4953724,Lucia Lopez,7,Tercero,Reprobado
+RC5424555,Ana Amaris,6,Tercero,Aprobado
+TI12023002,Santiago Sanchez,10,Quinto,Aprobado
+RC1273391,Andrea Rodriguez,5,Primero,Aprobado
+TI13486543,Sebastian Garcia,9,Cuarto,Aprobado
+TI8790308,Jaime Jaramillo,8,Cuarto,Aprobado
+TI1454941,Juan Paez,11,Quinto,Reprobado
+TI7986335,Alberto Alvarez,10,Cuarto,Aprobado
+RC13056638,Rosa Martinez,7,Segundo,Reprobado
+TI4301520,Diego Diaz,12,Quinto,Aprobado
+RC13973270,Erika Bedoya,8,Tercero,Reprobado
+RC10616029,Mariana Arbelaez,6,Segundo,Aprobado
+RC10592138,Joaquin Zapata,5,Primero,Reprobado
+RC14598685,Samuel Marin,4,Jardin,Aprobado
